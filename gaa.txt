@@ -1,5 +1,11 @@
 bajah 
 
+<<<<<<< HEAD
 Línea numero 1.1
 
 otra linea 
+=======
+Linea numero 1.1
+
+otra linea
+>>>>>>> f421e33863ac3b5c0babdcfda46f5de65ba8e7d6
